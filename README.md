@@ -9,7 +9,7 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo) 
 ### share yourself - 2022 ago
 [Quan site](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
-[Quan's essayes](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
+[Quan's essayes](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
 
 # For me
 [courses and books](https://github.com/QuanHoangNgoc/.Courses_and_Books) 
