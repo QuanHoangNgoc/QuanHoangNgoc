@@ -12,5 +12,8 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 [Quan's essayes](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
 
 # For me
-[career and roadmap](https://github.com/QuanHoangNgoc/.career)
-[courses and books](https://github.com/QuanHoangNgoc/.Courses_and_Books) 
+- [career and roadmap](https://github.com/QuanHoangNgoc/.career)
+  [followers](https://github.com/QuanHoangNgoc/.followers) 
+- [courses and books](https://github.com/QuanHoangNgoc/.courses_and_books)
+- [documents](https://github.com/QuanHoangNgoc/.documents)
+- [self learning and life learning](https://github.com/QuanHoangNgoc/.learning)
