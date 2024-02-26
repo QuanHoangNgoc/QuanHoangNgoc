@@ -14,6 +14,6 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 # For me
 - [career and roadmap](https://github.com/QuanHoangNgoc/.career)
   [followers](https://github.com/QuanHoangNgoc/.followers) 
-- [courses and books](https://github.com/QuanHoangNgoc/.courses_and_books)
+- [books](https://github.com/QuanHoangNgoc/.courses_and_books)
 - [documents](https://github.com/QuanHoangNgoc/.documents)
-- [self learning and life learning](https://github.com/QuanHoangNgoc/.learning)
+- [learning](https://github.com/QuanHoangNgoc/.learning)
