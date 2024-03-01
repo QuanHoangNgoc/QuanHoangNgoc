@@ -16,4 +16,4 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
   [followers](https://github.com/QuanHoangNgoc/.followers) 
 - [books](https://github.com/QuanHoangNgoc/.courses_and_books)
 - [documents](https://github.com/QuanHoangNgoc/.documents)
-- [self learning life learning](https://github.com/QuanHoangNgoc/.learning)
+- [learning](https://github.com/QuanHoangNgoc/.learning)
