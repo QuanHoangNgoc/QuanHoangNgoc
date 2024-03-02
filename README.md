@@ -12,4 +12,4 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 [Quan's essayes](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
 
 # For me
-- [for me](https://github.com/QuanHoangNgoc/.for_me)
+- [somethings for me](https://github.com/QuanHoangNgoc/.for_me)
