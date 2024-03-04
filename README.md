@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Quan Hoang Ngoc 
-Hi, my name is Quan. I am a student at the University of Information Technology (UIT), Ho Chi Minh City, Vietnam. I am learning about Mindset and Computer Science. So, I look forward to enjoying my own life 
+Hi, my name is Quan. I am a student at the University of Information Technology (UIT), Ho Chi Minh City, Vietnam. I am learning about Mindset and Computer Science. So, I look forward to enjoying my own life. 
 
 # About me
 - [LINKEDIN RESUME](https://www.linkedin.com/in/qu%C3%A2n-ho%C3%A0ng-ng%E1%BB%8Dc-4973532b6/) 
