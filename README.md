@@ -13,4 +13,5 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 
 # For me
 - [somethings for me](https://github.com/QuanHoangNgoc/.for_me)
-- [Kaggle Cloud Computers](https://www.kaggle.com/work/overview)
+- [kaggle cloud computers](https://www.kaggle.com/work/overview)
+- [learning and research](https://github.com/QuanHoangNgoc/.for_me/tree/LEARNING) 
