@@ -4,7 +4,7 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 
 # About me 😄
 - [LINKEDIN RESUME](https://www.linkedin.com/in/quanhoangngoc/) 
-- [github](https://github.com/QuanHoangNgoc?tab=repositories)
+- [github](https://github.com/QuanHoangNgoc?tab=stars)
   [facebook](https://www.facebook.com/quanhnqt)
   [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1) 
 ### share yourself - 2022 ago 📫
