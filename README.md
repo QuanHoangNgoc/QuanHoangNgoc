@@ -19,6 +19,9 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 - [learning & research](https://github.com/QuanHoangNgoc/.for_me/tree/LEARNING) 
 
 # Donate 🤔
+- I am happy to share my knowledge and project to people. I am willing to spend more time, enthusiasm and well-groomed appearance for these projects. So, I hope that they will be useful for people.
+- I will be very happy that people can like (star) and follow these projects to add motivation for me. Thank you for your help. [My Chanel](https://youtube.com/@QuanHoangNgoc-yu9uo?feature=shared) 
+
 
 <!--
 - 🔭 I’m currently working on ...
