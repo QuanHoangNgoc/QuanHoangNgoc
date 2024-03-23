@@ -3,8 +3,8 @@
 Hi, my name is Quan. I am a student at the University of Information Technology (UIT), Ho Chi Minh City, Vietnam. I am learning about Mindset and Computer Science. So, I look forward to enjoying my own life. 
 
 # About me 😄
-- [LINKEDIN RESUME](https://www.linkedin.com/in/qu%C3%A2n-ho%C3%A0ng-ng%E1%BB%8Dc-4973532b6/) 
-- [github](https://github.com/QuanHoangNgoc)
+- [LINKEDIN RESUME](https://www.linkedin.com/in/quanhoangngoc/) 
+- [github](https://github.com/QuanHoangNgoc?tab=repositories)
   [facebook](https://www.facebook.com/quanhnqt)
   [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1) 
 ### share yourself - 2022 ago 📫
