@@ -10,7 +10,7 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 ### share yourself - 2022 ago 📫
 [Quan site](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
 [Quan's essayes](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
-
+[notion](https://www.notion.so/quanhn/M-C-TI-U-2194feefabf14640be0aff232a5e9ba1?pvs=4)
 # For me 🌱
 - [useful somethings](https://github.com/QuanHoangNgoc/.for_me) 
 - [private for me](https://github.com/QuanHoangNgoc/.for_me_private)
