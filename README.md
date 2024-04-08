@@ -10,13 +10,16 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 ### share yourself - 2022 ago 📫
 [Quan site](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
 [Quan's essayes](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
+<!---
 [notion](https://www.notion.so/quanhn/M-C-TI-U-2194feefabf14640be0aff232a5e9ba1?pvs=4)
+---> 
+
 # For me 🌱
-- [useful somethings](https://github.com/QuanHoangNgoc/.for_me) 
-- [private for me](https://github.com/QuanHoangNgoc/.for_me_private)
-- [kaggle cloud computers](https://www.kaggle.com/work/overview)
-- [repo for one](https://uithcm-my.sharepoint.com/personal/22521178_ms_uit_edu_vn/_layouts/15/onedrive.aspx?login_hint=22521178%40ms%2Euit%2Eedu%2Evn&view=0) 
-- [learning & research](https://github.com/QuanHoangNgoc/.for_me/tree/LEARNING) 
+### Old Platfrom (Not Effective) 
+  - [useful somethings](https://github.com/QuanHoangNgoc/.for_me) 
+  - [private for me](https://github.com/QuanHoangNgoc/.for_me_private)
+  - [learning & research](https://github.com/QuanHoangNgoc/.for_me/tree/LEARNING) 
+
 
 # Donate 🤔
 - I am happy to share my knowledge and useful projects to people. I am willing to spend more time, enthusiasm and a well-groomed appearance for these projects. So, I hope that they will be useful for people.
