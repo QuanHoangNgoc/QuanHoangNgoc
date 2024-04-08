@@ -19,7 +19,7 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
   - [useful somethings](https://github.com/QuanHoangNgoc/.for_me) 
   - [private for me](https://github.com/QuanHoangNgoc/.for_me_private)
   - [learning & research](https://github.com/QuanHoangNgoc/.for_me/tree/LEARNING) 
-
+### New Platform (Recommend for Notion) 
 
 # Donate 🤔
 - I am happy to share my knowledge and useful projects to people. I am willing to spend more time, enthusiasm and a well-groomed appearance for these projects. So, I hope that they will be useful for people.
