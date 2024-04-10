@@ -5,8 +5,8 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 # About me 😄
 - [LinkedIn Resume](https://www.linkedin.com/in/quanhoangngoc/) 
 - [GitHub](https://github.com/QuanHoangNgoc?tab=stars)
-  | [Facebook](https://www.facebook.com/quanhnqt)
-  | [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1) 
+  [Facebook](https://www.facebook.com/quanhnqt)
+  [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1) 
 ### Share yourself - 2022 ago 📫
 [Quan site](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
 [Quan's essayes](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
