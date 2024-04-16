@@ -16,7 +16,7 @@ Hi, my name is Quan. I am a student at the University of Information Technology 
 
 # For me 🌱
 ### Old Platfrom (Not Effective) 
-  - [Useful Reading Collection](https://github.com/QuanHoangNgoc/.for_me) 
+  - [Useful Collection](https://github.com/QuanHoangNgoc/.for_me) 
   - [Private for me](https://github.com/QuanHoangNgoc/.for_me_private)
   - [Learning & Research](https://github.com/QuanHoangNgoc/.for_me/tree/LEARNING) 
 ### New Platform (Recommend for Notion) 
