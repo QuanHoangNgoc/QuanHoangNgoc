@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20369
-Fork on GitHub
-6229
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Quan-Hoang-Ngoc</h1>
 <h3 align="center">I am a scholar enrolled at the esteemed University of Information Technology (UIT) in Ho Chi Minh City, Vietnam, immersing myself in the realms of Mindset and Computer Science. With eager anticipation, I await the opportunity to fully indulge in the enrichment of my own existence.</h3>
 
@@ -61,30 +45,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quanhoangngoc&show_icons=true&locale=en" alt="quanhoangngoc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quanhoangngoc&" alt="quanhoangngoc" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Navigated to GitHub Profile README Generator
-Buy Me A Coffee
-1
