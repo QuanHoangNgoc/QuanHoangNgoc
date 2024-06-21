@@ -9,21 +9,21 @@
 
 - 🌱 I’m currently learning **mindset and computer science**
 
-- 👯 I’m looking to collaborate on [kaggle](https://www.kaggle.com/quanhoangngoc)
+- 👯 I’m looking to collaborate on [Kaggle](https://www.kaggle.com/quanhoangngoc)
 
-- 🤝 I’m looking for help with [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)
+- 🤝 I’m looking for help with [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)
 
-- 👨‍💻 All of my projects are available at [https://github.com/QuanHoangNgoc](https://github.com/QuanHoangNgoc)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/QuanHoangNgoc)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
+- 📝 I regularly write articles on [Quan_2022_ago](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
 
 - 💬 Ask me about **research and dev**
 
 - 📫 How to reach me **facebook.com/quanhnqt**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/quanhoangngoc](https://www.linkedin.com/in/quanhoangngoc)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/quanhoangngoc)
 
-- ⚡ Fun fact **https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis**
+- ⚡ Fun fact [Quan_fact](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
