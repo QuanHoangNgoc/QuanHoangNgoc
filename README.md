@@ -1,12 +1,53 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20369
+Fork on GitHub
+6229
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Quan-Hoang-Ngoc</h1>
-<h3 align="center">I am a student at the University of Information Technology (UIT), Ho Chi Minh City, Vietnam. I am learning about Mindset and Computer Science. So, I look forward to enjoying my own life.</h3>
+<h3 align="center">I am a scholar enrolled at the esteemed University of Information Technology (UIT) in Ho Chi Minh City, Vietnam, immersing myself in the realms of Mindset and Computer Science. With eager anticipation, I await the opportunity to fully indulge in the enrichment of my own existence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanhoangngoc&label=Profile%20views&color=0e75b6&style=flat" alt="quanhoangngoc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanhoangngoc" alt="quanhoangngoc" /></a> </p>
 
+- 🔭 I’m currently working on **University of Information Technology (UIT)**
+
+- 🌱 I’m currently learning **mindset and computer science**
+
+- 👯 I’m looking to collaborate on [kaggle](https://www.kaggle.com/quanhoangngoc)
+
+- 🤝 I’m looking for help with [youtube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)
+
+- 👨‍💻 All of my projects are available at [https://github.com/QuanHoangNgoc](https://github.com/QuanHoangNgoc)
+
+- 📝 I regularly write articles on [https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
+
+- 💬 Ask me about **research and dev**
+
+- 📫 How to reach me **facebook.com/quanhnqt**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/quanhoangngoc](https://www.linkedin.com/in/quanhoangngoc)
+
+- ⚡ Fun fact **https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/quanhoangngoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quanhoangngoc" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/quanhoangngoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/quanhoangngoc" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/quanhnqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/quanhnqt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@quanhoangngoc-yu9uo?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@quanhoangngoc-yu9uo?sub_confirmation=1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/quanhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/quanhn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +61,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quanhoangngoc&show_icons=true&locale=en" alt="quanhoangngoc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quanhoangngoc&" alt="quanhoangngoc" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Navigated to GitHub Profile README Generator
+Buy Me A Coffee
+1
