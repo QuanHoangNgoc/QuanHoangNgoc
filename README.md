@@ -151,12 +151,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoang
 
 <p align="center">
   <a href="https://github.com/QuanHoangNgoc/CoffeeShopManagementApp">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Views" />
-    <img src="https://img.shields.io/github/stars/QuanHoangNgoc/Coffee-Shop-Management-App?style=social" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/QuanHoangNgoc/Coffee-Shop-Management-App?style=social" alt="Forks" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Views" />
+    <img src="https://img.shields.io/github/stars/QuanHoangNgoc/Coffee-Shop-Management-App-SE-?style=social" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/QuanHoangNgoc/Coffee-Shop-Management-App-SE-?style=social" alt="Forks" />
   </a>
   <br>
-  <a href="https://github.com/QuanHoangNgoc/CoffeeShopManagementApp"><b>Coffee Shop Management App</b></a>
+  <a href="https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-"><b>Coffee Shop Management App</b></a>
   <p>A robust local device app to revolutionize coffee shop management, built with C#, SQL Server, and OOP design principles.</p>
 </p>
 
