@@ -8,7 +8,7 @@ I'm a passionate scholar at the University of Information Technology (UIT) in Ho
 
 - 🌱 Currently exploring advanced concepts in computer science.
 - 🔭 Actively contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).
-- 📚 Sharing knowledge through [Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) and [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1).
+- 📚 Sharing knowledge through **[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) and [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on [Kaggle](https://www.kaggle.com/quanhoangngoc).
 
@@ -30,7 +30,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoang
 - 🔭 Currently studying at **University of Information Technology (UIT)**
 - 🌱 Learning **Mindset and Computer Science**
 - 👯 Looking to collaborate on [Kaggle](https://www.kaggle.com/quanhoangngoc)
-- 🤝 Seeking assistance with my [YouTube Channel](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)
+- 🤝 Seeking assistance with my **[YouTube Channel](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**
 - 📝 Writing articles on [Quan_2022_ago](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
 - 💬 Ask me about **Research and Development**
 - 📫 Reach me on [Facebook](https://www.facebook.com/quanhnqt)
