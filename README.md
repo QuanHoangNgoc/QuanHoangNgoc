@@ -2,6 +2,18 @@
 <h1 align="center">Hi 👋, I'm Quan-Hoang-Ngoc</h1>
 <h3 align="center">Scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam</h3>
 
+---
+
+I'm a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. My interests span across **mindset development** and **computer science**, where I enjoy diving deep into research and development. I'm always eager to learn and collaborate on exciting projects, especially in the realms of data science, machine learning, and software development.
+
+- 🌱 Currently exploring advanced concepts in computer science.
+- 🔭 Actively contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).
+- 📚 Sharing knowledge through [articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) and [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1).
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on [Kaggle](https://www.kaggle.com/quanhoangngoc).
+
+---
+
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=quanhoangngoc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
