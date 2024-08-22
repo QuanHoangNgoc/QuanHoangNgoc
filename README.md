@@ -126,7 +126,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoang
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
    </a>
 </p>
-
+Buy me a coffee by start for my projects and like for my YouTube videos. Thank you so much! 
 ---
 
 ### 📊 GitHub Stats
