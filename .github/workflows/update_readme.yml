@@ -23,11 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Run Python Script
-        env:
-          GITHUB_TOKEN: ${{ secrets.NEW_TOKEN }} #!!!
-        run: |
-          python _update_readme.py  
-        #!!!
+        run: python _update_readme.py  # Replace with the actual script filename
 
       - name: Commit and Push changes
         run: |
@@ -36,4 +32,3 @@ jobs:
           git add README.md
           git commit -m "Update README with latest repo metrics"
           git push
-
