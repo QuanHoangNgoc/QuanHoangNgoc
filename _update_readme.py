@@ -8,6 +8,9 @@ username = "@QuanHoangNgoc"
 token = os.getenv("GITHUB_TOKEN")
 repo_name = username  # For the special GitHub Profile README repo
 
+if not github_token:
+    raise ValueError("GITHUB_TOKEN environment variable is not set.")
+
 
 # Function to get all repositories
 def get_all_repos(username, token):
