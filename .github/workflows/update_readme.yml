@@ -38,6 +38,6 @@ jobs:
         run: |
           git add README.md
           git commit -m "Update README with latest repo metrics" || echo "No changes to commit"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git push https://github.com/QuanHoangNgoc/QuanHoangNgoc.git HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
