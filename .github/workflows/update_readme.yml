@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Python Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: python _update_readme.py  # Replace with the actual script filename
 
       - name: Commit and Push changes
@@ -40,4 +40,4 @@ jobs:
           git commit -m "Update README with latest repo metrics"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
