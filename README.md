@@ -170,15 +170,15 @@ Welcome to my GitHub profile! I'm passionate about open-source development, rese
 
 ### 📊 GitHub Repository Metrics
 
-![Views](https://img.shields.io/badge/Views-0-blue?style=flat-square)
-![Clones](https://img.shields.io/badge/Clones-0-green?style=flat-square)
-![Stars](https://img.shields.io/badge/Stars-0-yellow?style=flat-square)
+![Views](https://img.shields.io/badge/Views-1530-blue?style=flat-square)
+![Clones](https://img.shields.io/badge/Clones-253-green?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-50-yellow?style=flat-square)
 
 | Metric        | Total Count |
 |---------------|-------------|
-| **🔍 Total Views**   | 0     |
-| **🔄 Total Clones**  | 0    |
-| **⭐ Total Stars**   | 0     |
+| **🔍 Total Views**   | 1530     |
+| **🔄 Total Clones**  | 253    |
+| **⭐ Total Stars**   | 50     |
 
 *These stats are automatically updated using a GitHub Action.*
 ---
