@@ -8,7 +8,7 @@ username = "@QuanHoangNgoc"
 token = os.getenv("GITHUB_TOKEN")
 repo_name = username  # For the special GitHub Profile README repo
 
-if not github_token:
+if not token:
     raise ValueError("GITHUB_TOKEN environment variable is not set.")
 
 
