@@ -5,7 +5,7 @@ import os
 
 # Replace these with your own values
 username = "@QuanHoangNgoc"
-token = "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"  #!!! ENV VAR
+token = "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"  #!!! ENV VAR
 repo_name = username  # For the special GitHub Profile README repo
 
 
@@ -44,6 +44,7 @@ def get_stars_count(repo):
     return repo.get("stargazers_count", 0)
 
 
+########################################################################
 # Initialize total counters
 total_views = 0
 total_clones = 0
@@ -71,6 +72,10 @@ for repo in repositories:
 
     # Get and sum stars
     total_stars += get_stars_count(repo)
+
+    print(
+        f"Updated README.md with totals: Views: {total_views}, Clones: {total_clones}, Stars: {total_stars}"
+    )
 
 
 # Update the README.md file
@@ -262,11 +267,10 @@ Welcome to my GitHub profile! I'm passionate about open-source development, rese
 """
 
 
+########################################################################
 # Write to README.md
 with open("README.md", "w") as readme_file:
     readme_file.write(readme_content)
 
 
-print(f"Updated README.md with totals: Views: {total_views}, Clones: {total_clones}, Stars: {total_stars}")
-
-
+########################################################################
