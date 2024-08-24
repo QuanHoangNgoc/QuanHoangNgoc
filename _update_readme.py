@@ -289,6 +289,7 @@ def run_command(command):
 
 
 # Git commands to commit and push changes
+print(token) 
 try:
     run_command("git config --global user.name 'github-actions[bot]'")
     run_command("git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'")
