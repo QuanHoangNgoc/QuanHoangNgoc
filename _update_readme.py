@@ -52,6 +52,9 @@ def get_stars_count(repo):
 total_views = 0
 total_clones = 0
 total_stars = 0
+views, clones = 0, 0 
+max_views, max_clones = 0, 0 
+
 
 # Fetch all repositories
 repositories = get_all_repos(username, token)
@@ -66,12 +69,16 @@ for repo in repositories:
     clones_url = f"https://api.github.com/repos/{owner}/{repo_name}/traffic/clones"
 
     # Get and sum views
-    repo_views, _ = get_traffic_data(views_url, username, token)
+    repo_views, tmp = get_traffic_data(views_url, username, token)
     total_views += repo_views
+    views += tmp 
+    if(tmp > max_views): max_views = tmp 
 
     # Get and sum clones
-    repo_clones, _ = get_traffic_data(clones_url, username, token)
+    repo_clones, tmp = get_traffic_data(clones_url, username, token)
     total_clones += repo_clones
+    clones += tmp 
+    if(tmp > max_clones): max_clones = tmp 
 
     # Get and sum stars
     total_stars += get_stars_count(repo)
@@ -258,11 +265,11 @@ Welcome to my GitHub profile! I'm passionate about open-source development, rese
 ![Clones](https://img.shields.io/badge/Clones-{total_clones}-green?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-{total_stars}-yellow?style=flat-square)
 
-| Metric        | Total Count |
-|---------------|-------------|
-| **🔍 Total Views**   | {total_views}     |
-| **🔄 Total Clones**  | {total_clones}    |
-| **⭐ Total Stars**   | {total_stars}     |
+| Metric        | Total Count | Unique Count | Max Count |
+|---------------|-------------|-------------|-------------|
+| **🔍 Total Views**   | {total_views}     | {views}     | {max_views}     |
+| **🔄 Total Clones**  | {total_clones}    | {clones}    | {max_clones}    |
+| **⭐ Total Stars**   | {total_stars}     | {total_stars}     | {total_stars}     |
 
 ***These stats are automatically updated using a GitHub Action.***
 ---
