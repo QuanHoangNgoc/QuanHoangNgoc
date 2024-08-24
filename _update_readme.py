@@ -5,7 +5,7 @@ import os
 
 # Replace these with your own values
 username = "@QuanHoangNgoc"
-token = os.getenv("GiTHUB_TOKEN")  #!!! ENV VAR
+token = "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"  #!!! ENV VAR
 repo_name = username  # For the special GitHub Profile README repo
 
 
