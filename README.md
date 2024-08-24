@@ -161,3 +161,4 @@ Buy me a coffee by star for my projects and like for my YouTube videos. Thank yo
   <p>A robust local device app to revolutionize coffee shop management, built with C#, SQL Server, and OOP design principles.</p>
 </p>
 
+
