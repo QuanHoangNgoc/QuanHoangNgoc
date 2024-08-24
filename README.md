@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Quan-Hoang-Ngoc</h1>
 <h3 align="center">Scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam</h3>
 
@@ -161,4 +162,24 @@ Buy me a coffee by star for my projects and like for my YouTube videos. Thank yo
   <p>A robust local device app to revolutionize coffee shop management, built with C#, SQL Server, and OOP design principles.</p>
 </p>
 
+
+---
+## 🌟 Quan-Hoang-Ngoc's GitHub Profile 🌟
+
+Welcome to my GitHub profile! I'm passionate about open-source development, research, and building innovative solutions. Here you can find some insights into the activity across all my repositories.
+
+### 📊 GitHub Repository Metrics
+
+![Views](https://img.shields.io/badge/Views-0-blue?style=flat-square)
+![Clones](https://img.shields.io/badge/Clones-0-green?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-0-yellow?style=flat-square)
+
+| Metric        | Total Count |
+|---------------|-------------|
+| **🔍 Total Views**   | 0     |
+| **🔄 Total Clones**  | 0    |
+| **⭐ Total Stars**   | 0     |
+
+*These stats are automatically updated using a GitHub Action.*
+---
 
