@@ -36,7 +36,7 @@ def get_traffic_data(url, username, token):
         return data.get("count", 0), data.get("uniques", 0)
     else:
         print(f"Failed to fetch data: {response.status_code}")
-        return 0, 0
+        return -1, -1
 
 
 # Function to get stars count for a specific repository
