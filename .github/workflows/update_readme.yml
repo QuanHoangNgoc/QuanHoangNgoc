@@ -13,6 +13,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          persist-credentials: false  # Ensure custom credentials are used
+
+      - name: Set up Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -23,12 +30,14 @@ jobs:
         run: pip install requests
 
       - name: Run Python Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python _update_readme.py  # Replace with the actual script filename
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update README with latest repo metrics"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
