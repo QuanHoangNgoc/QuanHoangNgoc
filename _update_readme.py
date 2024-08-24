@@ -264,7 +264,7 @@ Welcome to my GitHub profile! I'm passionate about open-source development, rese
 | **🔄 Total Clones**  | {total_clones}    |
 | **⭐ Total Stars**   | {total_stars}     |
 
-*These stats are automatically updated using a GitHub Action.*
+***These stats are automatically updated using a GitHub Action.***
 ---
 
 """
