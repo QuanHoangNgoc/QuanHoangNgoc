@@ -265,3 +265,8 @@ Welcome to my GitHub profile! I'm passionate about open-source development, rese
 # Write to README.md
 with open("README.md", "w") as readme_file:
     readme_file.write(readme_content)
+
+
+print(f"Updated README.md with totals: Views: {total_views}, Clones: {total_clones}, Stars: {total_stars}")
+
+
