@@ -277,3 +277,13 @@ with open("README.md", "w") as readme_file:
 
 
 ########################################################################
+# Git commands to commit and push changes
+try:
+    run_command("git config --global user.name 'github-actions[bot]'")
+    run_command("git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'")
+    run_command("git add README.md")
+    run_command('git commit -m "Update README with latest repo metrics"')
+    run_command(f'git push https://{token}@github.com/QuanHoangNgoc.git HEAD:main') #!!!
+except Exception as e:
+    print(f"An error occurred: {e}")
+
