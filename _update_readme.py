@@ -277,6 +277,17 @@ with open("README.md", "w") as readme_file:
 
 
 ########################################################################
+import subprocess
+
+
+# Function to run shell commands
+def run_command(command):
+    result = subprocess.run(command, shell=True, text=True, capture_output=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"Command failed with return code {result.returncode}: {result.stderr}")
+    return result.stdout
+
+
 # Git commands to commit and push changes
 try:
     run_command("git config --global user.name 'github-actions[bot]'")
