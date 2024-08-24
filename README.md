@@ -174,11 +174,11 @@ Welcome to my GitHub profile! I'm passionate about open-source development, rese
 ![Clones](https://img.shields.io/badge/Clones-253-green?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-50-yellow?style=flat-square)
 
-| Metric        | Total Count |
-|---------------|-------------|
-| **🔍 Total Views**   | 1530     |
-| **🔄 Total Clones**  | 253    |
-| **⭐ Total Stars**   | 50     |
+| Metric        | Total Count | Unique Count | Max Count |
+|---------------|-------------|-------------|-------------|
+| **🔍 Total Views**   | 1530     | 78     | 9     |
+| **🔄 Total Clones**  | 253    | 213    | 25    |
+| **⭐ Total Stars**   | 50     | 50     | 50     |
 
 ***These stats are automatically updated using a GitHub Action.***
 ---
