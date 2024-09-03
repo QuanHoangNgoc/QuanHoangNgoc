@@ -37,8 +37,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoang
 - 📫 Reach me on [Facebook](https://www.facebook.com/quanhnqt)
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc)
 - ⚡ Fun fact: [Quan's Fun Facts](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
-![Articles 2022 ago](https://github.com/QuanHoangNgoc/QuanHoangNgoc/edit/main/12tin.jpeg)
-This is the article I wrote about my high school, friends, and teachers. It talks about a journet that I learned and developed myself. 
+
+![Articles 2022 ago](https://github.com/QuanHoangNgoc/QuanHoangNgoc/edit/main/12tin.jpg)
+This is the article I wrote about my high school, friends, and teachers. It talks about a journey that I learned and developed myself. 
 ---
 
 ### 🌐 Connect with Me:
