@@ -102,6 +102,7 @@ I'm a passionate scholar at the University of Information Technology (UIT) in Ho
 - 🔭 Actively contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).
 - 📚 Sharing knowledge through **[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) and [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**.
 
+This is the article I wrote about my high school, friends, and teachers. It talks about a journey that I learned and developed myself. 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on [Kaggle](https://www.kaggle.com/quanhoangngoc).
 
 ---
@@ -129,8 +130,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoang
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc)
 - ⚡ Fun fact: [Quan's Fun Facts](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
 
-<img src="https://github.com/QuanHoangNgoc/QuanHoangNgoc/edit/main/12tin.jpg" alt="My Image" width=600 />
-This is the article I wrote about my high school, friends, and teachers. It talks about a journey that I learned and developed myself. 
 ---
 
 ### 🌐 Connect with Me:
