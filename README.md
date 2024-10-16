@@ -31,7 +31,7 @@ I'm a passionate scholar at the University of Information Technology (UIT) in Ho
 - 👯 Looking to collaborate on [Kaggle](https://www.kaggle.com/quanhoangngoc)
 - 🤝 Seeking assistance with my **[YouTube Channel](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**
 - 📝 Writing articles on [Quan_2022_ago](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)
-- 💬 Ask me about **[Research and Development](https://paperswithcode.com/sota)** and **[Techniques and Framework](https://huggingface.co/QuanHoangNgoc)** 
+- 💬 Ask me about **[Research and Development](https://paperswithcode.com/sota)** or **[Techniques and Framework](https://huggingface.co/QuanHoangNgoc)** 
 - 📫 Reach me on [Facebook](https://www.facebook.com/quanhnqt)
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc)
 - ⚡ Fun fact: [Quan's Fun Facts](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
