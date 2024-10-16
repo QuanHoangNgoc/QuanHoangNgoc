@@ -1,18 +1,14 @@
-
-
-<h1 align="center">Hi 👋, I'm Quan-Hoang-Ngoc</h1>
+<h1 align="center">Hi 👋, I'm ***Quan-Hoang-Ngoc***</h1>
 <h3 align="center">Scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam</h3>
 
 ---
 
-I'm a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. My interests span across **mindset development** and **computer science**, where I enjoy diving deep into research and development. I'm always eager to learn and collaborate on exciting projects, especially in the realms of data science, machine learning, and software development.
+I'm a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. My interests span **mindset development** and **computer science**, where I enjoy diving deep into research and development. I'm always eager to learn and collaborate on exciting projects, especially in data science, machine learning, and software development. Now, I will tell you my story with the sound of resilience, hard work, and determination!
 
 - 🌱 Currently exploring advanced concepts in computer science.
 - 🔭 Actively contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).
-- 📚 Sharing knowledge through ***[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) and [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)***.
-
-This is the article I wrote about my high school, friends, and teachers. It talks about a journey that I learned and developed myself. 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on ***[Kaggle](https://www.kaggle.com/quanhoangngoc)***.
+- 📚 Sharing knowledge through **[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)** and **[YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**. This is the article I wrote about my high school, friends, and teachers. It describes a journey on which I learned and developed myself. 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on **[Kaggle](https://www.kaggle.com/quanhoangngoc)** and **[HuggingFace](https://huggingface.co/QuanHoangNgoc)**.
 
 ---
 
@@ -38,6 +34,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoang
 - 📫 Reach me on [Facebook](https://www.facebook.com/quanhnqt)
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc)
 - ⚡ Fun fact: [Quan's Fun Facts](https://sites.google.com/view/hoangngocquan/home?fbclid=IwAR19-OvVtYz1TaMStSQ_BrDJ4g3rshGup14P3GR1ri77oQe2_XzvLwBVDis)
+
 
 ---
 
