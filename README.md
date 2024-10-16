@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ***Quan-Hoang-Ngoc***</h1>
+<h1 align="center">Hi 👋, I'm Quan-Hoang-Ngoc</h1>
 <h3 align="center">Scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam</h3>
 
 ---
