@@ -7,8 +7,10 @@ I'm a passionate scholar at the University of Information Technology (UIT) in Ho
 
 - 🌱 Currently exploring advanced concepts in computer science.
 - 🔭 Actively contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).
-- 📚 Sharing knowledge through **[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)** and **[YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**. This is the article I wrote about my high school, friends, and teachers. It describes a journey on which I learned and developed myself. 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on **[Kaggle](https://www.kaggle.com/quanhoangngoc)** and **[HuggingFace](https://huggingface.co/QuanHoangNgoc)**.
+- 📚 Sharing mindset and knowledge through **[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)** and **[YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**.
+<This is the article I wrote about my high school, friends, and teachers. It describes a historic journey on which I learned and developed myself.>  
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) or check out my work on **[Kaggle](https://www.kaggle.com/quanhoangngoc)** and **[HuggingFace](https://huggingface.co/QuanHoangNgoc)**.
+- I explore the novel techniques and framework at **[Paper-with-Code](https://paperswithcode.com/sota)**.
 
 ---
 
