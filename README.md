@@ -151,11 +151,11 @@ Buy me a coffee by star for my projects and like for my YouTube videos. Thank yo
 ### 📂 My Repositories
 
 <p align="center">
-  <a href="https://github.com/QuanHoangNgoc/CoffeeShopManagementApp">
+<!--   <a href="https://github.com/QuanHoangNgoc/CoffeeShopManagementApp">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Views" />
     <img src="https://img.shields.io/github/stars/QuanHoangNgoc/Coffee-Shop-Management-App-SE-?style=social" alt="Stars" />
     <img src="https://img.shields.io/github/forks/QuanHoangNgoc/Coffee-Shop-Management-App-SE-?style=social" alt="Forks" />
-  </a>
+  </a> -->
   <br>
   <a href="https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-"><b>Coffee Shop Management App</b></a>
   <p>A robust local device app to revolutionize coffee shop management, built with C#, SQL Server, and OOP design principles.</p>
