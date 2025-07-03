@@ -128,7 +128,7 @@ I'm a passionate scholar at the University of Information Technology (UIT) in Ho
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
    </a>
 </p>
-I would like you to buy me a coffee by starring in my projects and liking my YouTube videos. Thank you so much! 
+Donate me a coffee by `starring` in my projects and `liking` my YouTube videos. Thank you so much! 
 
 ---
 
