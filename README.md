@@ -3,7 +3,11 @@
 
 ---
 
-I'm a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. My interests span **mindset development** and **computer science**, where I enjoy diving deep into research and development. I'm always eager to learn and collaborate on exciting projects, especially in data science, machine learning, and software development. Now, I will tell you my story with the sound of resilience, hard work, and determination!
+<!---
+I'm a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. My interests span **mindset development** and **computer science**, where I enjoy diving deep into research and development. I'm always eager to learn and collaborate on exciting projects, especially in data science, machine learning, and software development. Now, I will tell you my story with the sound of resilience, hard work, and determination! 
+---> 
+
+I’m Quan, a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. With a strong interest in mindset horizon and computer science, I enjoy exploring research and development in these fields. My journey is guided by resilience, hard work, and determination, as I continuously seek opportunities to learn, grow, and collaborate on impactful projects.
 
 - 🌱 Currently exploring advanced concepts in computer science.
 - 🔭 Actively contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).
