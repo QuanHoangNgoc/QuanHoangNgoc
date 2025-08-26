@@ -5,14 +5,14 @@
 
 I am Quan, a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. With a strong interest in mindset horizon and computer science, I enjoy exploring research and development in these fields. My journey is guided by resilience, hard work, and determination, as I continuously seek opportunities to learn, grow, and collaborate on impactful projects.
 
-## 🚀 What I’m Up To  
-- 🌱 Exploring advanced concepts in computer science  
-- 🔭 Contributing to open-source on [GitHub](https://github.com/QuanHoangNgoc)  
-- 📚 Sharing knowledge via [Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) & [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)  
-- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) | See my work on [Kaggle](https://www.kaggle.com/quanhoangngoc) & [HuggingFace](https://huggingface.co/QuanHoangNgoc)  
-- 🔎 Exploring ideas on [Papers with Code](https://paperswithcode.com/sota)  
+## 🚀 Current Focus  
+- Engaging in advanced studies in **computer science and artificial intelligence**  
+- Actively contributing to open-source research and development on **[GitHub](https://github.com/QuanHoangNgoc)**  
+- Disseminating knowledge through **[Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7)** and **[YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)**  
+- Collaborating with peers via **[LinkedIn](https://www.linkedin.com/in/quanhoangngoc)**, [Kaggle](https://www.kaggle.com/quanhoangngoc), and [HuggingFace](https://huggingface.co/QuanHoangNgoc)
+- Exploring and reviewing state-of-the-art research on [Papers with Code](https://paperswithcode.com/sota)
 
-## 🌐 Socials:
+## 🌐 Academic & Research Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quanhoangngoc) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quanhnqt) 
@@ -40,6 +40,6 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 <p align="center">
   <a href="https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-"><b>Coffee Shop Management App</b></a>  
   <br>
-  <sub>Local app for coffee shop management, built with C#, SQL Server, and OOP design.</sub>
+  <sub>A structured software engineering project applying **C#, SQL Server, and object-oriented design principles** for efficient business management.</sub>
 </p>
  
