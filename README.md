@@ -1,33 +1,22 @@
 # 💫 About Me  
 
-Hi, I’m **Quan** – a passionate scholar at the **University of Information Technology (UIT), Ho Chi Minh City, Vietnam**.  
-With strong interests in **mindset development** and **computer science**, I love exploring research and development.  
+Hi, I’m **Quan-Hoang-Ngoc** – a passionate scholar at the **University of Information Technology (UIT), Ho Chi Minh City, Vietnam**.  
+I’m deeply interested in **mindset development** and **computer science**, where I love exploring **research and development**.  
+
 My journey is guided by resilience, hard work, and curiosity as I continuously learn, grow, and collaborate on impactful projects.  
 
 ---
 
 ## 🚀 What I’m Up To  
 
-🔭 **Currently working on**  
-Exploring advanced computer science concepts and contributing to open-source projects on [GitHub](https://github.com/QuanHoangNgoc).  
+- 🔭 **Currently working on**: Advanced computer science concepts & open-source contributions on [GitHub](https://github.com/QuanHoangNgoc).  
+- 🤝 **Looking to collaborate on**: Research projects, open-source tools, and AI/ML applications.  
+- 🧠 **Looking for help with**: Building impactful AI solutions & improving project visibility.  
+- 🌱 **Currently learning**: AI frameworks, research methodologies, and knowledge-sharing practices.  
+- 💬 **Ask me about**: Mindset growth, research journeys, and computer science (see my [Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) & [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)).  
+- ⚡ **Fun fact**: I enjoy exploring new knowledge on [Papers with Code](https://paperswithcode.com/sota), then applying it on [Kaggle](https://www.kaggle.com/quanhoangngoc) & [HuggingFace](https://huggingface.co/QuanHoangNgoc).  
 
-🤝 **Looking to collaborate on**  
-Research projects, open-source contributions, and innovative AI/ML applications.  
-
-🧠 **Looking for help with**  
-Building impactful AI solutions, improving open-source tools, and enhancing project visibility.  
-
-🌱 **Currently learning**  
-Cutting-edge AI frameworks, research methodologies, and best practices for knowledge sharing.  
-
-💬 **Ask me about**  
-Mindset development, computer science concepts, and my journey of learning (see my [Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ)) and [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1).  
-
-⚡ **Fun fact**  
-I enjoy exploring new knowledge on [Papers with Code](https://paperswithcode.com/sota) and applying it in practice via [Kaggle](https://www.kaggle.com/quanhoangngoc) and [HuggingFace](https://huggingface.co/QuanHoangNgoc).  
-
-📫 **Connect with me on**  
-[LinkedIn](https://www.linkedin.com/in/quanhoangngoc) | [GitHub](https://github.com/QuanHoangNgoc) | [Kaggle](https://www.kaggle.com/quanhoangngoc) | [HuggingFace](https://huggingface.co/QuanHoangNgoc)  
+📫 **Connect with me** → [LinkedIn](https://linkedin.com/in/quanhoangngoc) | [GitHub](https://github.com/QuanHoangNgoc) | [Kaggle](https://www.kaggle.com/quanhoangngoc) | [HuggingFace](https://huggingface.co/QuanHoangNgoc)  
 
 ---
 
@@ -37,7 +26,7 @@ I enjoy exploring new knowledge on [Papers with Code](https://paperswithcode.com
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quanhnqt) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/quanhoangngoc) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@22521178) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@QuanHoangNgoc-yu9uo)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@QuanHoangNgoc-yu9uo)  
 
 ---
 
@@ -49,28 +38,38 @@ I enjoy exploring new knowledge on [Papers with Code](https://paperswithcode.com
 **DevOps & Cloud**: GitHub Actions, GitLab CI, Docker, AWS, GCP, Azure  
 **Other Tools**: Figma, Canva, Power BI, Notion, Trello, Storybook  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,go,rust,graphql,nextjs,nestjs,tailwind,aws,docker" height="60" />
-</div>  
-
 ---
 
 ## 📊 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=QuanHoangNgoc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="150" />  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=QuanHoangNgoc&theme=transparent&hide_border=false" height="150" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=transparent&hide_border=false&layout=compact" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=QuanHoangNgoc&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />  
+  <img src="https://streak-stats.demolab.com?user=QuanHoangNgoc&theme=tokyonight&hide_border=true" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=tokyonight&hide_border=true&layout=compact" height="150" />  
 </div>  
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=QuanHoangNgoc&theme=transparent&no-frame=false&margin-w=4" />  
-</div>  
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=quanhoangngoc&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+   </a>
+</p>
 
+---
+
+## 🔝 Top Contributed Repos  
+
+![](https://github-contributor-stats.vercel.app/api?username=QuanHoangNgoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+
+---
+
+## 📂 Featured Repository  
+
+📌 [**Coffee Shop Management App**](https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-)  
+A robust local device app to revolutionize coffee shop management, built with **C#**, **SQL Server**, and **OOP design principles**.  
 
 ---
 
@@ -80,40 +79,20 @@ I enjoy exploring new knowledge on [Papers with Code](https://paperswithcode.com
 
 ---
 
-## 🔝 Top Contributed Repos  
-
-![](https://github-contributor-stats.vercel.app/api?username=QuanHoangNgoc&limit=5&theme=default&combine_all_yearly_contributions=true)  
-
----
-
 ## 👀 Visitor Count  
 
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=QuanHoangNgoc.QuanHoangNgoc&label=Visitors&logo=GitHub)  
+![Profile views](https://komarev.com/ghpvc/?username=QuanHoangNgoc&color=blue&style=flat-square)  
 
 ---
 
 ## 💰 Support Me  
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)  
+<p align="center">
+   <a href="https://www.buymeacoffee.com/">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+   </a>
+</p>  
 
 ---
 
-## 🎮 Fun Extras  
-
-<div align="center">  
-  <!-- GitHub Streak (customized for your username) -->  
-  <img src="https://streak-stats.demolab.com?user=QuanHoangNgoc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />  
-
-  <!-- GitHub Trophies (dracula theme, centered) -->  
-  <img src="https://github-profile-trophy.vercel.app/?username=QuanHoangNgoc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />  
-</div>  
-
-<!-- Pacman Contribution Graph customized for your username -->  
-<picture>  
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuanHoangNgoc/QuanHoangNgoc/output/pacman-contribution-graph-dark.svg">  
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuanHoangNgoc/QuanHoangNgoc/output/pacman-contribution-graph.svg">  
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/QuanHoangNgoc/QuanHoangNgoc/output/pacman-contribution-graph.svg">  
-</picture>  
-
-
----
+✨ Thanks for visiting my profile! Keep learning, keep building 🚀  
