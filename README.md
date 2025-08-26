@@ -3,7 +3,7 @@
 
 ---
 
-I am Quan, a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. With a strong interest in mindset horizon and computer science, I enjoy exploring research and development in these fields. My journey is guided by resilience, hard work, and determination, as I continuously seek opportunities to learn, grow, and collaborate on impactful projects.
+I am Quan, a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. With a strong interest in **mindset horizon** and **computer science**, I enjoy exploring **research and development** in these fields. My journey is guided by resilience, hard work, and determination, as I continuously seek opportunities to learn, grow, and collaborate on impactful projects.
 
 ## 🚀 Current Focus  
 - Engaging in advanced studies in **computer science and artificial intelligence**  
@@ -24,7 +24,7 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=QuanHoangNgoc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -35,10 +35,10 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 
 ---
 
-# 📂 My Repositories  
+# 📂 Selected Projects  
 
 <p align="center">
-  <a href="https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-"><b>Coffee Shop Management App</b></a>  
+  <a href="https://github.com/QuanHoangNgoc/Coffee-Shop-Management-App-SE-"><b>Coffee Shop Management Application</b></a>  
   <br>
   <sub>A structured software engineering project applying **C#, SQL Server, and object-oriented design principles** for efficient business management.</sub>
 </p>
