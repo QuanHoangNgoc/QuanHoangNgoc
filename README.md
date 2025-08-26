@@ -27,9 +27,9 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 # 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=QuanHoangNgoc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<div align="center">
+<div align="left">
    <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=QuanHoangNgoc&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
 </div>
 
