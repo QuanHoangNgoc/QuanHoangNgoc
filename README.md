@@ -47,3 +47,6 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
   <sub>A structured software engineering project applying **C#, SQL Server, and object-oriented design principles** for efficient business management.</sub>
 </p>
  
+---
+
+![Snake Animation](https://raw.githubusercontent.com/QuanHoangNgoc/github-stats/output/github-contribution-grid-snake.svg)
