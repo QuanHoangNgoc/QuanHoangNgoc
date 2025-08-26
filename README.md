@@ -32,9 +32,11 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 <div align="center">
    <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=QuanHoangNgoc&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
    <br>
-   <img src="https://raw.githubusercontent.com/QuanHoangNgoc/github-stats/master/generated/overview.svg" />
-   <img src="https://raw.githubusercontent.com/QuanHoangNgoc/github-stats/master/generated/languages.svg" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&langs_count=10&layout=compact" /> -->
+   <!-- Stats Overview -->
+   <img src="https://raw.githubusercontent.com/QuanHoangNgoc/github-stats/main/generated/overview.svg" />
+   <br>
+   <!-- Language Stats -->
+   <img src="https://raw.githubusercontent.com/QuanHoangNgoc/github-stats/main/generated/languages.svg" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=QuanHoangNgoc&icon=0&color=0)](https://visitcount.itsvg.in)
