@@ -25,18 +25,17 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 ---
 
 # 📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=QuanHoangNgoc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=QuanHoangNgoc&show_icons=true&theme=default&count_private=true&include_all_commits=false" />
-  <p align="center">
-    <img src="https://github.com/QuanHoangNgoc/github-stats/blob/master/generated/overview.svg" />
-    <img height="100%" src="https://github.com/QuanHoangNgoc/github-stats/blob/master/generated/languages.svg" />  
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&langs_count=10&layout=compact" /> -->
-  </p>
-</p>
+  <br>
+  <img src="https://github.com/QuanHoangNgoc/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/QuanHoangNgoc/github-stats/blob/master/generated/languages.svg" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHoangNgoc&langs_count=10&layout=compact" /> -->
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=QuanHoangNgoc&icon=0&color=0)](https://visitcount.itsvg.in)
 
