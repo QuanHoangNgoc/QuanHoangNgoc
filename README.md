@@ -6,13 +6,11 @@
 I am Quan, a passionate scholar at the University of Information Technology (UIT) in Ho Chi Minh City, Vietnam. With a strong interest in mindset horizon and computer science, I enjoy exploring research and development in these fields. My journey is guided by resilience, hard work, and determination, as I continuously seek opportunities to learn, grow, and collaborate on impactful projects.
 
 ## 🚀 What I’m Up To  
-<br>
-   <br>- 🌱 Exploring advanced concepts in computer science  
-   <br>- 🔭 Contributing to open-source on [GitHub](https://github.com/QuanHoangNgoc)  
-   <br>- 📚 Sharing knowledge via [Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) & [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)  
-   <br>- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) | See my work on [Kaggle](https://www.kaggle.com/quanhoangngoc) & [HuggingFace](https://huggingface.co/QuanHoangNgoc)  
-   <br>- 🔎 Exploring ideas on [Papers with Code](https://paperswithcode.com/sota)  
-<br>
+- 🌱 Exploring advanced concepts in computer science  
+- 🔭 Contributing to open-source on [GitHub](https://github.com/QuanHoangNgoc)  
+- 📚 Sharing knowledge via [Articles](https://sites.google.com/view/quan12i/trang-ch%E1%BB%A7?fbclid=IwAR3FfEwShxH6ZSOuZovAmZRb5TsljtnbunuYTHFITcd_K4odDwrVUyzzvjQ) & [YouTube](https://www.youtube.com/@QuanHoangNgoc-yu9uo?sub_confirmation=1)  
+- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/quanhoangngoc) | See my work on [Kaggle](https://www.kaggle.com/quanhoangngoc) & [HuggingFace](https://huggingface.co/QuanHoangNgoc)  
+- 🔎 Exploring ideas on [Papers with Code](https://paperswithcode.com/sota)  
 
 ## 🌐 Socials:
 
