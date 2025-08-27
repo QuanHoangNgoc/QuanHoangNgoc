@@ -37,6 +37,8 @@ I am Quan, a passionate scholar at the University of Information Technology (UIT
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![GitHub Repo Stats](https://raw.githubusercontent.com/QuanHoangNgoc/github-stats/main/github_repo_stats_subplots.png)
+
 ---
 
 # 📂 Selected Projects  
